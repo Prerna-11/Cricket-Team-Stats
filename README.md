@@ -15,8 +15,8 @@ This project is a Cricket Team Stats that allows users to manage players, matche
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/Prerna-11/Cricket-Team-Stats.git
-cd cricket-team-management
+git https://github.com/Prerna-11/Cricket-Team-Stats.git
+cd cricket-team-stats
 
 
 
