@@ -31,7 +31,7 @@ cd cricket-team-management
     | dateOfBirth  | Date   |
     | country      | String |
     | average      | double |
-    | match        | int    |
+    | match        | Match  |
 
 - `Match.java`: `Match` class should contain 
 
